@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Sonawane Sushant 👨‍💻
+# 👋 Hello, World! I'm Sushnat Sonawane 👨‍💻
 
 Welcome to my GitHub profile! I'm passionate about Full-Stack Web Development. Here, you'll find a glimpse of my coding journey and the projects I'm working on. Feel free to explore and connect with me!
 
