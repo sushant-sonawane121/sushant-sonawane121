@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm passionate about Full-Stack Web Development. H
 
 ## 🌐 Connect with Me
 
+[![Email](https://img.shields.io/badge/-Email-%230075a8?style=flat-square&logo=gmail&logoColor=white)](mailto:sushantsonawane121@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-sonawane121/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sushants121)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square)](https://sushant-sonawane121.github.io/Sushant-Sonawane)
