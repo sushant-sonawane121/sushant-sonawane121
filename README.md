@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about Full-Stack Web Development. H
 
 ## 🚀 About Me
 
-- 🌐 [My Portfolio](https://sushant-sonawane121.github.io/Sushant-Sonawane)
+- 🌐 [My Portfolio](https://sushant-sonawane.vercel.app/)
 - 💼 Actively seeking a job as a Full-Stack Web Developer
 - 🎓 Studied MCA at PIRENS IBMA LONI BK.
 
