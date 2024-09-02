@@ -8,6 +8,9 @@ Welcome to my GitHub profile! I'm passionate about Full-Stack Web Development. H
 - 💼 Actively seeking a job as a Full-Stack Web Developer
 - 🎓 Studied MCA at PIRENS IBMA LONI BK.
 
+## 🤩 Open Source Contributions
+- [leafview](https://github.com/sprout2000/leafview) - [contributors](https://github.com/sprout2000/leafview/graphs/contributors)
+
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
